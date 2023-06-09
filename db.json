@@ -8,31 +8,31 @@
       },
       {
         "id": 2,
-        "imageSrc": "2.jpg",
+        "imageSrc": "accessories/2.jpg",
         "label": "Soft Harness With Leash XXL",
         "price": "$90"
       },
       {
         "id": 3,
-        "imageSrc": "3.jpg",
+        "imageSrc": "accessories/3.jpg",
         "label": "Softline Elegance Collar",
         "price": "$50"
       },
       {
         "id": 4,
-        "imageSrc": "4.jpg",
+        "imageSrc": "accessories/4.jpg",
         "label": "Trixie Carlo Litter Tray, with Rim",
         "price": "$90"
       },
       {
         "id": 5,
-        "imageSrc": "5.jpg",
+        "imageSrc": "accessories/5.jpg",
         "label": "Trixie Flex Silicone Muzzle",
         "price": "$30"
       },
       {
         "id": 6,
-        "imageSrc": "6.jpg",
+        "imageSrc": "accessories/6.jpg",
         "label": "Cat Toy Rod",
         "price": "$20"
       }
@@ -40,37 +40,37 @@
     "foods": [
       {
         "id": 1,
-        "imageSrc": "1.jpg",
+        "imageSrc": "foods/1.jpg",
         "label": "Blackhawk Adult Cat - Lamb & Rice",
         "price": "$30"
       },
       {
         "id": 2,
-        "imageSrc": "2.jpg",
+        "imageSrc": "foods/2.jpg",
         "label": "Blackhawk Puppy Lamb and Rice",
         "price": "$35"
       },
       {
         "id": 3,
-        "imageSrc": "3.jpg",
+        "imageSrc": "foods/3.jpg",
         "label": "Happy Dog Supreme Young - Junior Original",
         "price": "$30"
       },
       {
         "id": 4,
-        "imageSrc": "4.jpg",
+        "imageSrc": "foods/4.jpg",
         "label": "Drools Adult Cat Food Ocean Fish",
         "price": "$25"
       },
       {
         "id": 5,
-        "imageSrc": "5.jpg",
+        "imageSrc": "foods/5.jpg",
         "label": "Pedigree Chicken & Vegetables Dog Food",
         "price": "$30"
       },
       {
         "id": 6,
-        "imageSrc": "6.jpg",
+        "imageSrc": "foods/6.jpg",
         "label": "Me-O Seafood Flavoured Cat Food",
         "price": "$20"
       }
@@ -78,37 +78,37 @@
     "health": [
       {
         "id": 1,
-        "imageSrc": "1.jpg",
+        "imageSrc": "health/1.jpg",
         "label": "Bravecto Tablets",
         "price": "$60"
       },
       {
         "id": 2,
-        "imageSrc": "2.jpg",
+        "imageSrc": "health/2.jpg",
         "label": "BREWBITS Nutritional yeast with Garlic for dogs",
         "price": "$80"
       },
       {
         "id": 3,
-        "imageSrc": "3.jpg",
+        "imageSrc": "health/3.jpg",
         "label": "Frontline Spray Flea & Tick Treatment",
         "price": "$45"
       },
       {
         "id": 4,
-        "imageSrc": "4.jpg",
+        "imageSrc": "health/4.jpg",
         "label": "Ivomec Injection Treatment",
         "price": "$90"
       },
       {
         "id": 5,
-        "imageSrc": "5.jpg",
+        "imageSrc": "health/5.jpg",
         "label": "NexGard Flea & Tick Treatment for Large Dogs",
         "price": "$50"
       },
       {
         "id": 6,
-        "imageSrc": "6.jpg",
+        "imageSrc": "health/6.jpg",
         "label": "NexGard Flea & Tick Treatment for Medium Dogs",
         "price": "$70"
       }
@@ -116,37 +116,37 @@
     "supplement": [
       {
         "id": 1,
-        "imageSrc": "1.jpg",
+        "imageSrc": "supplement/1.jpg",
         "label": "Beaphar Brewers Yeast Tabs",
         "price": "$50"
       },
       {
         "id": 2,
-        "imageSrc": "2.jpg",
+        "imageSrc": "supplement/2.jpg",
         "label": "Beaphar Gistocal",
         "price": "$40"
       },
       {
         "id": 3,
-        "imageSrc": "3.jpg",
+        "imageSrc": "supplement/3.jpg",
         "label": "Beaphar Glucosamine ",
         "price": "$35"
       },
       {
         "id": 4,
-        "imageSrc": "4.jpg",
+        "imageSrc": "supplement/4.jpg",
         "label": "Beaphar Grapesugar",
         "price": "$65"
       },
       {
         "id": 5,
-        "imageSrc": "5.jpg",
+        "imageSrc": "supplement/5.jpg",
         "label": "Beaphar Joint Tablets",
         "price": "$70"
       },
       {
         "id": 6,
-        "imageSrc": "6.jpg",
+        "imageSrc": "supplement/6.jpg",
         "label": "Beaphar Salmon Oil Paste",
         "price": "$40"
       }
@@ -154,37 +154,37 @@
     "toys": [
       {
         "id": 1,
-        "imageSrc": "1.jpg",
+        "imageSrc": "toys/1.jpg",
         "label": "Denta Fun Ball Mint Flavour",
         "price": "$20"
       },
       {
         "id": 2,
-        "imageSrc": "2.jpg",
+        "imageSrc": "toys/2.jpg",
         "label": "Dog Toy Rope Bone",
         "price": "$15"
       },
       {
         "id": 3,
-        "imageSrc": "3.jpg",
+        "imageSrc": "toys/3.jpg",
         "label": "Duck Latex Toy",
         "price": "$25"
       },
       {
         "id": 4,
-        "imageSrc": "4.jpg",
+        "imageSrc": "toys/4.jpg",
         "label": "Ring Rope with Tenis Ball",
         "price": "$15"
       },
       {
         "id": 5,
-        "imageSrc": "5.jpg",
+        "imageSrc": "toys/5.jpg",
         "label": "Rope Toy with Woven-in Ball",
         "price": "$35"
       },
       {
         "id": 6,
-        "imageSrc": "6.jpg",
+        "imageSrc": "toys/6.jpg",
         "label": "Trixie Denta Fun Rugby Ball",
         "price": "$20"
       }
